@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\bin\Debug\hastane randevu sistemi.exe.config
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\bin\Debug\hastane randevu sistemi.exe
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\bin\Debug\hastane randevu sistemi.pdb
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\HastaneRandevuSistemi.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\hastane_randevu_sistemi.AşıRandevusu.resources
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\hastane_randevu_sistemi.HastaneRandevuSistemi.resources
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\hastane_randevu_sistemi.HastaneRandevu.resources
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\hastane_randevu_sistemi.Properties.Resources.resources
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\hastane_randevu_sistemi.Sonuc.resources
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\HastaneRandevuSistemi.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\hastane randevu sistemi.exe
+C:\Users\lenovo\source\repos\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\hastane randevu sistemi.pdb
